@@ -1,6 +1,9 @@
 {
   "name": "AIBT",
-  "promotion": "https://github.com/ZelongChen/paomia/raw/gh-pages/AIBT.pdf",
+  "promotion": {
+    "name": "AIBT",
+    "link": "https://github.com/ZelongChen/paomia/raw/gh-pages/AIBT.pdf"
+  },
   "schools":[
               {
                 "name": "ACE AVIATION AEROSPACE ACADEMY",
