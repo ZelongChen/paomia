@@ -1,6 +1,9 @@
 {
   "name": "REACH",
-  "promotion": "https://github.com/ZelongChen/paomia/raw/gh-pages/AIBT.pdf",
+  "promotion": {
+    "name": "REACH",
+    "link": "https://github.com/ZelongChen/paomia/raw/gh-pages/REACH.pdf"
+  },
   "schools":[
               {
                 "name": "REACH COMMUNITY COLLEGE",
